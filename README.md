@@ -14,14 +14,12 @@
 
 07. [게시판 메인 페이지 디자인](https://sincerity.tistory.com/178)
 
-07. [게시판 데이터베이스 구축하기](https://sincerity.tistory.com/179)
+08. [게시판 데이터베이스 구축하기](https://sincerity.tistory.com/179)
 
-08. [글쓰기 기능 구현](https://sincerity.tistory.com/180)
+09. [글쓰기 기능 구현](https://sincerity.tistory.com/180)
 
-09. [글쓰기 기능 구현](https://sincerity.tistory.com/181)
+10. [게시판 글 목록 기능 구현](https://sincerity.tistory.com/181)
 
-10. [게시판 글 목록 기능 구현](https://sincerity.tistory.com/182)
+11. [게시글 보기 기능 구현](https://sincerity.tistory.com/182)
 
-11. [게시글 보기 기능 구현](https://sincerity.tistory.com/183)
-
-12. [게시글 수정 및 삭제 기능 구현](https://sincerity.tistory.com/184)
+12. [게시글 수정 및 삭제 기능 구현](https://sincerity.tistory.com/183)
