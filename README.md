@@ -24,4 +24,4 @@
 
 11. [게시글 보기 기능 구현](https://sincerity.tistory.com/183)
 
-12. [게시글 수정 및 삭제 기능 구현]((https://sincerity.tistory.com/184)
+12. [게시글 수정 및 삭제 기능 구현](https://sincerity.tistory.com/184)
