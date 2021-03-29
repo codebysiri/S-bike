@@ -1,7 +1,8 @@
 # MiniProject
 
 [시현 동영상](https://youtu.be/FHJP__HMo5U) - 클릭하시면 Youtube로 이동합니다.
-<img width="80%" src="https://github.com/codesiri/MiniProject/issues/1#issue-842922161>
+
+<img width="80%" src="https://github.com/codesiri/MiniProject/issues/1#issue-842922161"/>
 
 01. [로그인 화면 구축](https://sincerity.tistory.com/172)
 
