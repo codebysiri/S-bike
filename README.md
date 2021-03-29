@@ -1,8 +1,10 @@
-# MiniProject
+# MiniProject | 따릉이는 처음이라
 
-[시현 동영상](https://youtu.be/FHJP__HMo5U) - 클릭하시면 Youtube로 이동합니다.
+<img width="80%" src="https://user-images.githubusercontent.com/71364866/112781725-5d48c680-9086-11eb-8231-b658c2fb6fa9.gif"/>
 
-<img width="80%" src="https://github.com/codesiri/MiniProject/issues/1#issue-842922161"/>
+서울시 공공자전거 Open API 활용 및 Google Map 연동
+
+00. [시현 동영상](https://youtu.be/FHJP__HMo5U)
 
 01. [로그인 화면 구축](https://sincerity.tistory.com/172)
 
