@@ -1,5 +1,9 @@
 # MiniProject
 
+
+<img width="80%" src="https://youtu.be/FHJP__HMo5U">
+
+
 01. [로그인 화면 구축](https://sincerity.tistory.com/172)
 
 02. [회원 데이터베이스 구축](https://sincerity.tistory.com/173)
