@@ -1,7 +1,6 @@
 # MiniProject
 
-
-<img width="80%" src="https://youtu.be/FHJP__HMo5U">
+[시현 동영상](https://youtu.be/FHJP__HMo5U) - 클릭하시면 Youtube로 이동합니다.
 
 
 01. [로그인 화면 구축](https://sincerity.tistory.com/172)
