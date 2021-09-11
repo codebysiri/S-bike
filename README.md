@@ -1,8 +1,8 @@
-# MiniProject | 따릉이는 처음이라
+# Project | 따릉이는 처음이라 (서울시 공공자전거 Open API 활용 및 Google Map 연동)
+
+![따릉이는-처음이라](https://user-images.githubusercontent.com/71364866/132954877-1f421ece-b55d-4b45-aabc-d937fcb4d89d.png)
 
 <img width="80%" src="https://user-images.githubusercontent.com/71364866/112781725-5d48c680-9086-11eb-8231-b658c2fb6fa9.gif"/>
-
-서울시 공공자전거 Open API 활용 및 Google Map 연동
 
 00. [시현 동영상](https://youtu.be/FHJP__HMo5U)
 
